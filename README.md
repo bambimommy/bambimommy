@@ -25,12 +25,13 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
  <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
  <td><a href="https://github.com/simondeng777/ImageProcessing">影像處理</a></td>
- <td>王 O 仁</td>
+ <td>郭 O 瑄</td>
  </tr>
 </table><br>
 <img src="II_1.png"></img>
 <img src="II_2.png"></img>
 <img src="II_3.png"></img>
 <img src="II_4.png" style="display:block; margin:auto;" ></img>
+
 
 
